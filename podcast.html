@@ -303,7 +303,7 @@
     }
 
     function addTeam() {
-        if (teams.length >= 5) return;
+        if (teams.length >= 8) return;
         const newId = teams.length > 0 ? Math.max(...teams.map(t => t.id)) + 1 : 1;
         teams.push({ id: newId, name: `Equipo ${newId}`, score: 0 });
         renderTeams();
