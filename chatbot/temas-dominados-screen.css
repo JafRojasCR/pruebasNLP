@@ -1,0 +1,446 @@
+.temas-dominados-screen {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 402px;
+  min-height: 874px;
+  position: relative;
+}
+
+.temas-dominados-screen .group-4 {
+  position: absolute;
+  height: 45px;
+  top: 28px;
+  left: 22px;
+  display: flex;
+  align-items: flex-start;
+  min-width: 45px;
+  transform: rotate(180deg);
+}
+
+.temas-dominados-screen .group-5 {
+  display: flex;
+  align-items: flex-start;
+  min-width: 45px;
+}
+
+.temas-dominados-screen .group-6 {
+  width: 45px;
+  display: flex;
+}
+
+.temas-dominados-screen .img-wrapper {
+  width: 45px;
+  height: 45px;
+  display: flex;
+}
+
+.temas-dominados-screen .arrow-right-2 {
+  margin-top: 0;
+  width: 45px;
+  height: 45px;
+  margin-left: 0;
+  transform: rotate(-180deg);
+}
+
+.temas-dominados-screen .group-7 {
+  position: absolute;
+  top: 171px;
+  left: 39px;
+  width: 323px;
+  height: 118px;
+  display: flex;
+}
+
+.temas-dominados-screen .state-layer-wrapper {
+  display: flex;
+  width: 323px;
+  height: 118px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: var(--shape-corner-large);
+  overflow: hidden;
+  box-shadow: var(--m3-elevation-light-3);
+}
+
+.temas-dominados-screen .state-layer-3 {
+  display: inline-flex;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: var(--shape-corner-large);
+}
+
+.temas-dominados-screen .group-8 {
+  position: absolute;
+  top: 336px;
+  left: 39px;
+  width: 323px;
+  height: 118px;
+  display: flex;
+}
+
+.temas-dominados-screen .group-9 {
+  position: absolute;
+  top: 501px;
+  left: 39px;
+  width: 323px;
+  height: 118px;
+  display: flex;
+}
+
+.temas-dominados-screen .text-wrapper-9 {
+  position: absolute;
+  top: 104px;
+  left: 77px;
+  width: 248px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .text-wrapper-10 {
+  position: absolute;
+  top: 182px;
+  left: 56px;
+  width: 96px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .text-wrapper-11 {
+  position: absolute;
+  top: 347px;
+  left: 56px;
+  width: 96px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .text-wrapper-12 {
+  position: absolute;
+  top: 512px;
+  left: 56px;
+  width: 165px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .rectangle-7 {
+  top: 220px;
+  left: 56px;
+  width: 253px;
+  height: 20px;
+  background-color: #cbcbcb;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .rectangle-8 {
+  top: 385px;
+  left: 56px;
+  width: 253px;
+  height: 20px;
+  background-color: #cbcbcb;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .rectangle-9 {
+  top: 550px;
+  left: 56px;
+  width: 253px;
+  height: 20px;
+  background-color: #cbcbcb;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .rectangle-10 {
+  top: 221px;
+  left: 57px;
+  width: 216px;
+  height: 18px;
+  background-color: #00aaff;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .rectangle-11 {
+  top: 386px;
+  left: 57px;
+  width: 198px;
+  height: 18px;
+  background-color: #00aaff;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .rectangle-12 {
+  top: 551px;
+  left: 57px;
+  width: 154px;
+  height: 18px;
+  background-color: #00aaff;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.temas-dominados-screen .text-wrapper-13 {
+  position: absolute;
+  top: 222px;
+  left: 317px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .text-wrapper-14 {
+  top: 387px;
+  position: absolute;
+  left: 319px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .text-wrapper-15 {
+  top: 552px;
+  position: absolute;
+  left: 319px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.temas-dominados-screen .star-12 {
+  position: absolute;
+  top: 251px;
+  left: 152px;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-13 {
+  top: 416px;
+  left: 152px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-14 {
+  top: 582px;
+  left: 152px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-15 {
+  top: 582px;
+  left: 128px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-5 {
+  position: absolute;
+  top: 251px;
+  left: 56px;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-6 {
+  top: 416px;
+  left: 56px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-7 {
+  top: 582px;
+  left: 56px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-8 {
+  top: 251px;
+  left: 80px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-9 {
+  top: 416px;
+  left: 80px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-10 {
+  top: 582px;
+  left: 80px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-11 {
+  top: 251px;
+  left: 104px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-12 {
+  top: 416px;
+  left: 104px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-13 {
+  top: 582px;
+  left: 104px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-14 {
+  top: 251px;
+  left: 128px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .star-filled-15 {
+  top: 416px;
+  left: 128px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.temas-dominados-screen .group-10 {
+  position: absolute;
+  top: 801px;
+  left: 324px;
+  width: 59px;
+  height: 59px;
+  display: flex;
+  background-color: #6873ec;
+  border-radius: 29.5px;
+}
+
+.temas-dominados-screen .message-square-2 {
+  margin-top: 11.3px;
+  width: 36.31px;
+  height: 36.31px;
+  margin-left: 11.3px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .temas-dominados-screen {
+    min-width: 360px;
+    min-height: 700px;
+  }
+  
+  .temas-dominados-screen .text-wrapper-9 {
+    font-size: 20px;
+    width: 90%;
+    left: 5%;
+  }
+  
+  .temas-dominados-screen .text-wrapper-10,
+  .temas-dominados-screen .text-wrapper-11,
+  .temas-dominados-screen .text-wrapper-12 {
+    font-size: 16px;
+  }
+  
+  .temas-dominados-screen .group-7,
+  .temas-dominados-screen .group-8,
+  .temas-dominados-screen .group-9 {
+    width: 90%;
+    left: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .temas-dominados-screen {
+    min-width: 100%;
+    min-height: 100vh;
+  }
+  
+  .temas-dominados-screen .text-wrapper-9 {
+    font-size: 16px;
+    width: 90%;
+    left: 5%;
+  }
+  
+  .temas-dominados-screen .text-wrapper-10,
+  .temas-dominados-screen .text-wrapper-11,
+  .temas-dominados-screen .text-wrapper-12 {
+    font-size: 14px;
+  }
+  
+  .temas-dominados-screen .group-7,
+  .temas-dominados-screen .group-8,
+  .temas-dominados-screen .group-9 {
+    width: 95%;
+    left: 2.5%;
+    height: 100px;
+  }
+  
+  .temas-dominados-screen .rectangle-7,
+  .temas-dominados-screen .rectangle-8,
+  .temas-dominados-screen .rectangle-9,
+  .temas-dominados-screen .rectangle-10,
+  .temas-dominados-screen .rectangle-11,
+  .temas-dominados-screen .rectangle-12 {
+    height: 12px;
+  }
+}

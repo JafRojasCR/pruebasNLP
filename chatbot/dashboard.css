@@ -1,0 +1,286 @@
+.dashboard {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 402px;
+  min-height: 874px;
+  position: relative;
+}
+
+.dashboard .frame {
+  display: flex;
+  width: 151px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 58px;
+  left: 26px;
+}
+
+.dashboard .text-wrapper-33 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -5px;
+  margin-right: -5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .generic-avatar {
+  position: absolute;
+  top: 66px;
+  left: 335px;
+  width: 40px;
+  height: 40px;
+}
+
+.dashboard .group-52 {
+  position: absolute;
+  top: 240px;
+  left: 43px;
+  width: 141px;
+  height: 139px;
+}
+
+.dashboard .FAB-5 {
+  display: flex;
+  width: 139px;
+  height: 139px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: var(--shape-corner-large);
+  overflow: hidden;
+  box-shadow: var(--m3-elevation-light-3);
+}
+
+.dashboard .state-layer-6 {
+  display: inline-flex;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: var(--shape-corner-large);
+}
+
+.dashboard .book-open {
+  position: absolute;
+  top: 17px;
+  left: 35px;
+  width: 69px;
+  height: 69px;
+}
+
+.dashboard .text-wrapper-34 {
+  position: absolute;
+  top: 97px;
+  left: 14px;
+  width: 111px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .text-wrapper-35 {
+  position: absolute;
+  top: 151px;
+  left: 77px;
+  width: 248px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dashboard .line-4 {
+  position: absolute;
+  top: 194px;
+  left: 55px;
+  width: 292px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.dashboard .group-53 {
+  position: absolute;
+  top: 240px;
+  left: 221px;
+  width: 139px;
+  height: 139px;
+}
+
+.dashboard .group-54 {
+  position: absolute;
+  width: 139px;
+  height: 139px;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.dashboard .group-55 {
+  width: 140.76px;
+  height: 138.76px;
+  position: relative;
+}
+
+.dashboard .clipboard {
+  position: absolute;
+  top: 21px;
+  left: 38px;
+  width: 62px;
+  height: 62px;
+}
+
+.dashboard .group-56 {
+  position: absolute;
+  top: 424px;
+  left: 43px;
+  width: 141px;
+  height: 139px;
+}
+
+.dashboard .bar-chart {
+  position: absolute;
+  top: 13px;
+  left: 31px;
+  width: 76px;
+  height: 76px;
+}
+
+.dashboard .group-57 {
+  position: absolute;
+  top: 424px;
+  left: 221px;
+  width: 139px;
+  height: 139px;
+}
+
+.dashboard .award {
+  position: absolute;
+  top: 20px;
+  left: 38px;
+  width: 62px;
+  height: 62px;
+}
+
+.dashboard .group-58 {
+  position: absolute;
+  top: 796px;
+  left: 323px;
+  width: 59px;
+  height: 59px;
+  display: flex;
+  background-color: #6873ec;
+  border-radius: 29.5px;
+}
+
+.dashboard .message-square-5 {
+  margin-top: 11.3px;
+  width: 36.31px;
+  height: 36.31px;
+  margin-left: 11.3px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .dashboard {
+    min-width: 360px;
+    min-height: 700px;
+  }
+  
+  .dashboard .frame {
+    width: 100%;
+    padding: 10px 20px;
+    top: 20px;
+  }
+  
+  .dashboard .text-wrapper-33 {
+    font-size: 20px;
+  }
+  
+  .dashboard .generic-avatar {
+    width: 35px;
+    height: 35px;
+    right: 20px;
+    top: 25px;
+  }
+  
+  .dashboard .text-wrapper-35 {
+    width: 90%;
+    left: 5%;
+  }
+  
+  .dashboard .group-52,
+  .dashboard .group-53,
+  .dashboard .group-56,
+  .dashboard .group-57 {
+    width: 90%;
+    left: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .dashboard {
+    min-width: 100%;
+    min-height: 100vh;
+  }
+  
+  .dashboard .frame {
+    padding: 8px 15px;
+    top: 15px;
+  }
+  
+  .dashboard .text-wrapper-33 {
+    font-size: 16px;
+  }
+  
+  .dashboard .text-wrapper-35 {
+    font-size: 18px;
+    width: 90%;
+    left: 5%;
+  }
+  
+  .dashboard .generic-avatar {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .dashboard .group-52,
+  .dashboard .group-53,
+  .dashboard .group-56,
+  .dashboard .group-57 {
+    width: 100%;
+    left: 0;
+    height: 100px;
+  }
+  
+  .dashboard .FAB-5 {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .dashboard .line-4 {
+    width: 90%;
+    left: 5%;
+  }
+}

@@ -1,0 +1,222 @@
+.pgina-de-inicio {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 402px;
+  min-height: 874px;
+  position: relative;
+}
+
+.pgina-de-inicio .text-wrapper {
+  position: absolute;
+  top: 321px;
+  left: 65px;
+  width: 271px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-inicio .ellipse {
+  top: 556px;
+  left: -183px;
+  width: 248px;
+  height: 230px;
+  border-radius: 124px / 115px;
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .div {
+  top: 57px;
+  left: 4px;
+  width: 29px;
+  height: 29px;
+  border-radius: 14.5px;
+  transform: rotate(180deg);
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .ellipse-2 {
+  top: 28px;
+  left: 17px;
+  width: 29px;
+  height: 29px;
+  border-radius: 14.5px;
+  transform: rotate(180deg);
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .ellipse-3 {
+  top: 671px;
+  left: 363px;
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .ellipse-4 {
+  top: 43px;
+  left: -8px;
+  width: 14px;
+  height: 14px;
+  border-radius: 7px;
+  transform: rotate(180deg);
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .ellipse-5 {
+  top: 699px;
+  left: 394px;
+  width: 16px;
+  height: 15px;
+  border-radius: 8px / 7.5px;
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .ellipse-6 {
+  top: -111px;
+  left: 286px;
+  width: 248px;
+  height: 230px;
+  border-radius: 124px / 115px;
+  position: absolute;
+  background-color: #6873ec;
+}
+
+.pgina-de-inicio .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 532px;
+  left: 123px;
+}
+
+.pgina-de-inicio .content {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #6873ec;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.pgina-de-inicio .state-layer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.pgina-de-inicio .icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.pgina-de-inicio .label {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--m3-label-large-font-family);
+  font-weight: var(--m3-label-large-font-weight);
+  color: #ffffff;
+  font-size: var(--m3-label-large-font-size);
+  letter-spacing: var(--m3-label-large-letter-spacing);
+  line-height: var(--m3-label-large-line-height);
+  white-space: nowrap;
+  font-style: var(--m3-label-large-font-style);
+}
+
+.pgina-de-inicio .image {
+  position: absolute;
+  top: 803px;
+  left: 12px;
+  width: 137px;
+  height: 45px;
+  aspect-ratio: 3.06;
+}
+
+.pgina-de-inicio .img {
+  position: absolute;
+  top: 794px;
+  left: 258px;
+  width: 105px;
+  height: 64px;
+  aspect-ratio: 1.63;
+  object-fit: cover;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .pgina-de-inicio {
+    min-width: 360px;
+    min-height: 700px;
+  }
+  
+  .pgina-de-inicio .text-wrapper {
+    font-size: 18px;
+    top: 25%;
+    left: 20px;
+    right: 20px;
+    width: auto;
+  }
+  
+  .pgina-de-inicio .button {
+    top: 55%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .pgina-de-inicio .image,
+  .pgina-de-inicio .img {
+    max-width: 90%;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .pgina-de-inicio {
+    min-width: 100%;
+    min-height: 100vh;
+  }
+  
+  .pgina-de-inicio .text-wrapper {
+    font-size: 16px;
+    top: 30%;
+    width: 90%;
+    left: 5%;
+  }
+  
+  .pgina-de-inicio .button {
+    height: 44px;
+    top: 60%;
+  }
+  
+  .pgina-de-inicio .ellipse,
+  .pgina-de-inicio .ellipse-6 {
+    display: none;
+  }
+}

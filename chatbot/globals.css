@@ -1,0 +1,32 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:var(--m3-label-large-font-weight)"); /* @FONTWARNING[{"type": "restricted", "family": "SF Pro-Medium", "weight": "500", "style": "normal", "allowsCrossOrigin": true}] */
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "SF Pro-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/5f0f0fe71911555ed50ab8f4/SF-Pro.ttf")
+    format("truetype");
+}
+/* @FONTWARNING[{"type": "restricted", "family": "SF Pro-Regular", "weight": "400", "style": "normal", "allowsCrossOrigin": true}] */
+
+@font-face {
+  font-family: "SF Pro-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/5efe6eb8e9407760a5475b2d/SF-Pro.ttf")
+    format("truetype");
+}

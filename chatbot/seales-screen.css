@@ -1,0 +1,366 @@
+.seales-screen {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 402px;
+  min-height: 874px;
+  position: relative;
+}
+
+.seales-screen .group-29 {
+  position: absolute;
+  top: 805px;
+  left: 326px;
+  width: 59px;
+  height: 59px;
+  display: flex;
+  background-color: #6873ec;
+  border-radius: 29.5px;
+}
+
+.seales-screen .message-square-4 {
+  margin-top: 11.3px;
+  width: 36.31px;
+  height: 36.31px;
+  margin-left: 11.3px;
+}
+
+.seales-screen .group-30 {
+  position: absolute;
+  top: 238px;
+  left: 36px;
+  width: 316px;
+  height: 67px;
+  display: flex;
+}
+
+.seales-screen .FAB-4 {
+  display: flex;
+  width: 316px;
+  height: 67px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: var(--shape-corner-large);
+  overflow: hidden;
+  box-shadow: var(--m3-elevation-light-3);
+}
+
+.seales-screen .state-layer-5 {
+  display: inline-flex;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: var(--shape-corner-large);
+}
+
+.seales-screen .text-wrapper-21 {
+  position: absolute;
+  top: 151px;
+  left: 52px;
+  width: 284px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .text-wrapper-22 {
+  position: absolute;
+  top: 257px;
+  left: 52px;
+  width: 284px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-31 {
+  position: absolute;
+  top: 332px;
+  left: 36px;
+  width: 316px;
+  height: 67px;
+  display: flex;
+}
+
+.seales-screen .text-wrapper-23 {
+  position: absolute;
+  top: 351px;
+  left: 52px;
+  width: 284px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-32 {
+  position: absolute;
+  top: 426px;
+  left: 36px;
+  width: 316px;
+  height: 67px;
+  display: flex;
+}
+
+.seales-screen .text-wrapper-24 {
+  position: absolute;
+  top: 445px;
+  left: 52px;
+  width: 284px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-33 {
+  position: absolute;
+  top: 520px;
+  left: 36px;
+  width: 316px;
+  height: 67px;
+  display: flex;
+}
+
+.seales-screen .text-wrapper-25 {
+  position: absolute;
+  top: 539px;
+  left: 52px;
+  width: 284px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-34 {
+  position: absolute;
+  height: 45px;
+  top: 28px;
+  left: 22px;
+  display: flex;
+  align-items: flex-start;
+  min-width: 45px;
+  transform: rotate(180deg);
+}
+
+.seales-screen .group-35 {
+  display: flex;
+  align-items: flex-start;
+  min-width: 45px;
+}
+
+.seales-screen .group-36 {
+  width: 45px;
+  display: flex;
+}
+
+.seales-screen .group-37 {
+  width: 45px;
+  height: 45px;
+  display: flex;
+}
+
+.seales-screen .arrow-right-4 {
+  margin-top: 0;
+  width: 45px;
+  height: 45px;
+  margin-left: 0;
+  transform: rotate(-180deg);
+}
+
+.seales-screen .auto-flex {
+  position: absolute;
+  height: 43px;
+  top: 614px;
+  left: 32px;
+  display: flex;
+  align-items: flex-start;
+  min-width: 320px;
+  gap: 14px;
+}
+
+.seales-screen .overlap-group {
+  width: 153px;
+  height: 43px;
+  position: relative;
+}
+
+.seales-screen .group-38 {
+  position: absolute;
+  height: 43px;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  min-width: 153px;
+}
+
+.seales-screen .group-39 {
+  display: flex;
+  align-items: flex-start;
+  min-width: 153px;
+}
+
+.seales-screen .group-40 {
+  width: 153px;
+  display: flex;
+}
+
+.seales-screen .group-41 {
+  width: 155px;
+  height: 43px;
+  position: relative;
+}
+
+.seales-screen .rectangle-20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 153px;
+  height: 43px;
+  background-color: #6873ec;
+  border-radius: 10px;
+}
+
+.seales-screen .text-wrapper-26 {
+  position: absolute;
+  top: 10px;
+  left: 49px;
+  width: 64px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-42 {
+  position: absolute;
+  height: 25px;
+  top: 9px;
+  left: 16px;
+  display: flex;
+  align-items: flex-start;
+  min-width: 25px;
+  transform: rotate(180deg);
+}
+
+.seales-screen .group-43 {
+  display: flex;
+  align-items: flex-start;
+  min-width: 25px;
+}
+
+.seales-screen .group-44 {
+  width: 25px;
+  display: flex;
+}
+
+.seales-screen .group-45 {
+  width: 25px;
+  height: 25px;
+  display: flex;
+}
+
+.seales-screen .arrow-right-5 {
+  margin-top: 0;
+  width: 25px;
+  height: 25px;
+  margin-left: 0;
+  transform: rotate(-180deg);
+}
+
+.seales-screen .text-wrapper-27 {
+  position: absolute;
+  top: 10px;
+  left: 21px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.seales-screen .group-46 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 9px;
+  left: 112px;
+  background-image: url(https://c.animaapp.com/WhmK1kNu/img/arrow-right-4.svg);
+  background-size: 100% 100%;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .seales-screen {
+    min-width: 360px;
+    min-height: 700px;
+  }
+  
+  .seales-screen .text-wrapper-21,
+  .seales-screen .text-wrapper-22,
+  .seales-screen .text-wrapper-23,
+  .seales-screen .text-wrapper-24,
+  .seales-screen .text-wrapper-25 {
+    font-size: 16px;
+  }
+  
+  .seales-screen .group-30,
+  .seales-screen .group-31,
+  .seales-screen .group-32,
+  .seales-screen .group-33 {
+    width: 90%;
+    left: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .seales-screen {
+    min-width: 100%;
+    min-height: 100vh;
+  }
+  
+  .seales-screen .text-wrapper-21,
+  .seales-screen .text-wrapper-22,
+  .seales-screen .text-wrapper-23,
+  .seales-screen .text-wrapper-24,
+  .seales-screen .text-wrapper-25 {
+    font-size: 14px;
+  }
+  
+  .seales-screen .group-30,
+  .seales-screen .group-31,
+  .seales-screen .group-32,
+  .seales-screen .group-33 {
+    width: 95%;
+    left: 2.5%;
+    height: 60px;
+  }
+  
+  .seales-screen .auto-flex {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+}
